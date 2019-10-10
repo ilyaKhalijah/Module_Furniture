@@ -743,7 +743,9 @@ MonoBehaviour:
   - {fileID: 4913321459197947401}
   - {fileID: 645537506070990461}
   - {fileID: 1150861919255205671}
-  localObjects: []
+  localObjects:
+  - {fileID: 1367183940747821078}
+  - {fileID: 4763127244838533429}
 --- !u!1 &8569635407889034499
 GameObject:
   m_ObjectHideFlags: 0
